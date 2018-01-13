@@ -1,0 +1,69 @@
+ <!--> <div class="body">
+      
+    
+    <div class="container-fluid">
+      <div id="avatar" class="container fixed-class">
+      <div class="row">
+        <div class="col-md-6">
+          <p class="but1">button</p>
+          <ul class="mouse none">
+            <li><a href="#">ojefoehfhhk</a></li>
+            <li><a href="#">ojefoehfhhk</a></li>
+            <li><a href="#">ojefoehfhhk</a></li>
+            <li><a href="#">ojefoehfhhk</a></li>
+            <li><a href="#">ojefoehfhhk</a></li>
+            <li><a href="#">ojefoehfhhk</a></li>
+            <li><a href="#">ojefoehfhhk</a></li>
+          </ul>
+          <p class="test">testing </p>
+        </div>
+        <div class="col-md-6">
+          <h1>ewfdef</h1>
+          <p>sewdewde</p>
+        </div>
+      </div>
+    </div>
+    </div>
+    
+
+
+    <div class="container">
+
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      <h1>tekst erfefefe</h1>
+      
+    </div>
+
+    </div> -->
